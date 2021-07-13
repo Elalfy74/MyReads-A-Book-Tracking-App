@@ -7,6 +7,7 @@ Project is books page where you can manage it's categories and  search for anoth
 * HTML
 * CSS
 * JAVA SCRIPT
+* React JS
 
 ## Requirments:
 You have to instal `npm` and `node` in your computer to be able to run this project
